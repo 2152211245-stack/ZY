@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://img.heliar.top/file/1772885159972_silence.m4a';
+    var SRC = 'https://2152211245-stack.github.io/ZY/silence_gen_1793182889605.m4a';
     var _audio = null;
     var _unlockBound = false;
 
